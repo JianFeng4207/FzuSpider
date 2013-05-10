@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fzu-weixin-app>
+	<user>
+		<id>896442328@qq.com</id>		<!-- 你的账号 -->
+		<password>9f99db9c1d600d005fbca4802099c620</password>	<!-- 你的密码 -->
+	</user>
+	<reciver>			<!-- 消息接收者列表 -->
+		<id>2233231003</id>
+		<id>41676845</id>
+	</reciver>
+</fzu-weixin-app>
+
